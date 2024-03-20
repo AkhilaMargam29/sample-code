@@ -1,0 +1,37 @@
+#h1{
+    /* width: 200px;
+    height: 2000px; */
+    color:black;
+    font-size: medium;
+}
+#input{
+    width:280px;
+    height: 25px;
+    position: absolute;
+    top: 10px;
+    left:140px;
+    color: black;
+    background-color: burlywood;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.123);
+    border: none;
+}
+#button{
+    top: 50px;
+    left:227px;
+    position: absolute;
+   padding: 8px 20px;
+   background-color:rgba(137, 43, 226, 0.116);
+   color: crimson;
+   font-size: larger
+}
+.h3{
+    font-style: oblique;
+    font-weight: 50px;
+   color: rgba(0, 0, 255, 0.671);
+}
+#img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
